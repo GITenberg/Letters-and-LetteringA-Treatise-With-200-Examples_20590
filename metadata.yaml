@@ -1,0 +1,29 @@
+_repo: Letters-and-LetteringA-Treatise-With-200-Examples_20590
+_version: 0.1.0
+alternative_title: 'Letters and Lettering: A Treatise with 200 Examples'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Frank Chouteau
+    alias: Brown, Chouteau
+    birthdate: 1876
+    deathdate: 1947
+    gutenberg_agent_id: '9409'
+    url: http://www.gutenberg.org/2009/agents/9409
+description: ''
+gutenberg_issued: '2007-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Alphabets'
+- !lcsh 'Lettering'
+title: 'Letters & Lettering: A Treatise with 200 Examples'
+url: http://www.gutenberg.org/ebooks/20590
